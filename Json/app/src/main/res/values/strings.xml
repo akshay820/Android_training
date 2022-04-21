@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="title_activity_homepage">homepage</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="scrolltext">
+        Android Project:-
+        Project4 Digital Design was founded by Austin Madinga in February
+        2005 as a design studio providing web and graphics design services.
+        We have since then designed, developed and deployed creative,
+        content, digital, database, tech and training solutions across
+        multiple platforms and formats.
+        We have successfully conceptualised, designed and delivered projects
+        for clients in the private and public sectors as well as to small
+        boutique companies and non-profit organisations.
+
+    </string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
